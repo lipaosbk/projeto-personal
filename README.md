@@ -1,7 +1,7 @@
-<h1 align="center">🌟 Meu Projeto Pessoal</h1>
+<h1 align="center">🌟 Projeto Personal Trainer</h1>
 
 <p align="center">
-  Um projeto pessoal que desenvolvi para aplicar meus conhecimentos e mostrar minha evolução ao longo do curso DEVCLUB.
+  Um projeto que desenvolvi para aplicar meus conhecimentos e mostrar minha evolução ao longo do curso DEVCLUB.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 📚 Sobre o Projeto
 
-Este é um projeto que desenvolvi para mostrar minha evolução no curso DEVCLUB. O objetivo é aplicar os conhecimentos adquiridos em HTML, CSS e JavaScript de forma prática e criativa.
+Este é um projeto foi desenvolvido para mostrar minha evolução no curso DEVCLUB. O objetivo é aplicar os conhecimentos adquiridos em HTML, CSS e JavaScript de forma prática e criativa.
 
 A proposta inclui:
 
